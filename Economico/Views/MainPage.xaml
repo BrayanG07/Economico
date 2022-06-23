@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Economico.MainPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Button x:Name="BtnViewMap" Clicked="BtnViewMap_Clicked" Text="Ir Al Mapa" WidthRequest="220" CornerRadius="10"/>
+            <Button x:Name="BtnViewLocationRepartidor" Clicked="BtnViewLocationRepartidor_Clicked" Text="Ubicacion Repartidor" WidthRequest="220" CornerRadius="10"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

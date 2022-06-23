@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "121403096988",
+    "project_id": "economico-354022",
+    "storage_bucket": "economico-354022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121403096988:android:531d08c8b9f3266b48d259",
+        "android_client_info": {
+          "package_name": "com.companyname.economico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121403096988-e8am7n60m3be7m9de7aaif3fr5ps5cdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuICv7ZzOgjFjrW0egk0uja6BGjx9cZgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121403096988-e8am7n60m3be7m9de7aaif3fr5ps5cdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121403096988:android:54db51b00cd8f3ef48d259",
+        "android_client_info": {
+          "package_name": "uth.programovil.economico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121403096988-1ea5u51dciqc3bqttldt5i2qn7rnmu0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uth.programovil.economico",
+            "certificate_hash": "a352d8a49df3b74e646fd5a85c9f8739a8a0a8fc"
+          }
+        },
+        {
+          "client_id": "121403096988-e8am7n60m3be7m9de7aaif3fr5ps5cdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuICv7ZzOgjFjrW0egk0uja6BGjx9cZgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121403096988-e8am7n60m3be7m9de7aaif3fr5ps5cdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
